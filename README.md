@@ -11,9 +11,10 @@ The Final project of my Video Game Course in 4to Semester - 2020
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ff9d29c2-717f-4280-ac75-de90091ebd6c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220515T234249Z&X-Amz-Expires=86400&X-Amz-Signature=0f17ba012e8bed94f5ab0d7d9a1d50852a1044750eef024fc240489ad6ef17a6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject)
 </div>
 You are a cactus with a hat waiting for your order of tacos, when suddenly they are stolen from you,  quickly you chase down the thief to a sewer where you find out this misterious dungeon. Now you have to go through all the levels facing enemies and running for your life until you have your tacos back 🌮.
+
 ## Description of game
-There are two kinds of levels 
-* Platforms
+There are two kinds of levels\
+* Platforms\
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7cee69ba-df80-4b18-aaa8-fb005c597615/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220515T234650Z&X-Amz-Expires=86400&X-Amz-Signature=881f5dd79f6e6675381dbf8e3c223fa0792208b59441b230f99b4958ba7f8d74&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject)
 * Dungeons 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a9f36d7-72ad-4370-89f3-a1dd91da1084/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220515%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220515T234737Z&X-Amz-Expires=86400&X-Amz-Signature=e60261f7d5995288e7e901aa2652a4fc6c127fce4130c68197a203f2fd474f60&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject)
