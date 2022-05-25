@@ -5,7 +5,7 @@ The Final project of my Video Game Course in 4to Semester - 2020
 * [Alejandro Cedillo ](https://github.com/alexcega)
 * [Sergio Guasso](https://github.com/Guasso)
 * [Diana Martinez](https://www.instagram.com/donut.mar.verde/)
-* [Juan Pablo Pino](https://github.com/Juanpabdl)
+* [Juan Pablo Diaz](https://github.com/Juanpabdl)
 ## Story
 <div align="center">
   
@@ -46,7 +46,7 @@ https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b1d2c6b-0b67-419d-a
 
 ## Resources
 ### Characters
-All the enemies and main character are original creation of [Juan Pablo Pinos](https://www.instagram.com/juanpabpinos/)
+All the enemies and main character are original creation of [Juan Pablo Diaz](https://www.instagram.com/juanpabpinos/)
 ### Assets
 The Background is from [Medieval pixel art asset FREE](https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131)
 ### Music 
